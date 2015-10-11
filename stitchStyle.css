@@ -1,0 +1,217 @@
+#headers  {
+   display: block;
+  margin-right: auto;
+  margin-left: auto;
+  top: 50%;
+  max-width: 600px;
+}
+
+
+ 
+
+body {
+    background-color: black;
+} 
+
+.floated_img {
+    float: left;
+    padding-right: 20px;
+    padding-top: 20px;
+    width: 220px;
+    text-align: center;
+    font-family: 'Raleway Light', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+#pay {
+  position:fixed;
+  top:50%;
+  left:50%;
+
+}
+#row {
+  position: relative;
+}
+
+#row2 {
+  position: relative;
+}
+
+#row3 {
+  position: relative;
+ 
+}
+
+#row4 {
+  position: relative;
+}
+#row5 {
+  position: relative;
+}
+#row6 {
+  position: relative;
+}
+#row7 {
+  position: relative;
+}
+#row8 {
+  position: relative;
+}
+#row9 {
+  position: relative;
+}
+
+
+
+.form {
+  position:fixed; 
+  top: 500px; 
+  left:70%; 
+
+}
+
+#link1 {
+  position:relative;
+  top: -35%;
+  left:-75%;
+
+}
+
+#link2 {
+  position: relative;
+  bottom: 30%;
+  left:-45%;
+  b
+}
+
+#link3 {
+  position: relative;
+  top: -10%;
+  left:-10%;
+}
+
+
+#col1 {
+  position: relative;
+left:0%;
+
+ padding-bottom: 2%;
+ 
+
+}
+#col2 {
+  position: relative;
+  padding-bottom: 2%;
+  left: 5%;
+}
+#col3 {
+  position: relative;
+  top: 20%;
+  left:10%;
+padding-bottom: 2%;
+   
+
+}
+
+
+
+.floated_img {
+    float: left;
+}
+
+
+#size {
+  left: 50%;
+  color: black;
+  text-align: center;
+  background-color: #B0171F;
+  border-color: #B0171F;
+}
+
+.dropdown {
+  position: absolute;
+  left:45%;
+  
+ }
+ 
+#textc1 {
+  z-index: 100;
+  position: absolute;
+  color: #e50000;
+ 
+  font-weight: normal;
+  top: 30%;
+  left: 7%;
+  font-size: 6vw;
+  font-family: 'Architects Daughter';
+  -webkit-text-stroke: 1px black;
+  
+}
+#textc2 {
+  z-index: 100;
+  position: absolute;
+  color: #e50000;
+  font-size: 6vw;
+  font-weight: normal;
+  top: 30%;
+  left: 43%;
+  font-family: 'Architects Daughter';
+    -webkit-text-stroke: 1px black;
+}
+#textc3 {
+  z-index: 100;
+  position: absolute;
+  color: #e50000;
+  font-size: 6vw;
+  font-weight: normal;
+  top: 30%;
+  left: 78%;
+  font-family: 'Architects Daughter';
+    -webkit-text-stroke: 1px black;
+}
+
+/* Landscape phones and down */
+@media (max-width: 736px) { 
+    img    {
+        width:100%;
+        position: static;
+          left: 0% !important ;
+        margin-left: auto;
+        margin-right: auto;
+        vertical-align: center;
+    }
+#textc1 {
+margin-left: auto;
+margin-right: auto;
+top: 13%;
+left:30%;
+font-size: 17vw;
+
+    
+  }
+#textc2 {
+left:30%;
+margin-left: auto;
+margin-right: auto;
+top: 45% ;
+font-size: 17vw;
+
+  } 
+  
+#textc3 {
+left:30%;
+margin-left: auto;
+margin-right: auto;
+top: 79% ;
+font-size: 17vw;
+
+  } 
+ .fotorama {
+ data-width: 100%; 
+ }
+ 
+ #description {
+ font-size: 17vw;
+ }
+ 
