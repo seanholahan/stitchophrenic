@@ -1,2 +1,2 @@
 # Stitchophrenic
-Some of the responsive code I have written to create the Stitchophrenic web-store.  
+Some of the responsive code I have written to create a web-store for my brand, Stitchophrenic.  
